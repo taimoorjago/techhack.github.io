@@ -1,0 +1,34 @@
+#img {
+    text-align: center;
+    height: 239px;
+    padding: 16px;
+    margin: 43px;
+}
+
+.sing {
+    height: 46px;
+    text-align: center;
+}
+
+#singhtml {
+    text-align: center;
+}
+
+.btn-group {
+    text-align: center;
+}
+
+#video {
+    text-align: center;
+}
+
+#youtube {
+    text-align: center;
+    height: 20px;
+    padding: 30px;
+    margin: 42px;
+}
+
+/* #youtext { */
+    /* text-align: center; */
+/* } */
